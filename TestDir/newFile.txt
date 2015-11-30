@@ -1,0 +1,5 @@
+new file added with a cool function
+
+void helloWorld () {
+	cout << "Hello World" << endl;
+}
