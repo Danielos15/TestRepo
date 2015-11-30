@@ -1,4 +1,5 @@
 Testing this
 New line
-Şetta şarf líka ağ koma
+Ãetta Ã¾arf lÃ­ka aÃ° koma
 Added new line in linux
+Almar
